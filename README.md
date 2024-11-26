@@ -8,3 +8,9 @@ stored procedure (SpInsertFactOrders) that performs various tasks, including sel
 Since the audit value is NULL: test case;
 ![image](https://github.com/user-attachments/assets/71cf348a-2fde-4bcd-a0ff-6d6c4cfe6b7b)
 
+![image](https://github.com/user-attachments/assets/f23a8092-4648-46d1-8bb4-1cc87c014cb6) ![image](https://github.com/user-attachments/assets/e5c41451-b41f-4cb8-a765-43be4b542b83)
+
+
+
+![image](https://github.com/user-attachments/assets/f021e6c0-2c42-40cd-964a-c4796d215d21)
+
