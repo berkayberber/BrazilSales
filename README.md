@@ -14,3 +14,4 @@ Since the audit value is NULL: test case;
 
 ![image](https://github.com/user-attachments/assets/f021e6c0-2c42-40cd-964a-c4796d215d21)
 
+Since Tableau Public doesn't let me connect to the MSSQL server and is limited to working with local files, I downloaded a CSV file of my result given from the * from the query.
